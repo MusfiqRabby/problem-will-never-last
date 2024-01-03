@@ -24,3 +24,15 @@ h2{
 p{
     text-align: center;
 }
+
+h3{
+    font: 800;
+    color: gray;
+    text-align: center;
+}
+img{
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    background-position: center;
+}
