@@ -1,0 +1,26 @@
+
+
+header{
+    background: yellowgreen;
+    text-align: center;
+    font: optional;
+}
+
+
+
+div{
+    background: turquoise;
+    box-sizing: border-box;
+    border: 2px solid tomato;
+    padding: 10px 15px;
+    margin: 8px 13px;
+    border-radius: 50px;
+}
+h2{
+    font: 700;
+    color: red;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
